@@ -1,0 +1,15 @@
+{
+  "name": "crawler-vsd",
+  "version": "1.0.0",
+  "description": "Web crawler to get information from ISSUER in vsd.vn",
+  "main": "index.js",
+  "author": "Huy Phan",
+  "license": "MIT",
+  "dependencies": {
+    "@penseapp/discord-notification": "^2.0.9",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^22.11.0"
+  }
+}
