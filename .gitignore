@@ -1,0 +1,5 @@
+# Ignore node_modules folder
+node_modules
+
+# Ingore .env file as this will contains webhook
+.env
